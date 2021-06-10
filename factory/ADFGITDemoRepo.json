@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITDemoRepo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e52513ec-3e47-4bb6-b523-569c463bc7fd",
+		"tenantId": "ad432195-0fa8-4a9f-8f95-2f9398df47e1"
+	}
+}
